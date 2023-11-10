@@ -1,4 +1,4 @@
-# Samourai Wallet Dev
+# Samourai Wallet Developer
 https://code.samourai.io/noosphere888
 
 ## ExtLibJ Maintainer
